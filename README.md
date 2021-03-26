@@ -3,6 +3,8 @@
 
 ![ecommerce](mark-konig-Tl8mDaue_II-unsplash.jpg)
 
+Photo by <a href="https://unsplash.com/@markkoenig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark König</a> on <a href="https://unsplash.com/s/photos/ecommerce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 ## Project description
 
 Analysis of the sales of an ecommerce with fictitious data.
